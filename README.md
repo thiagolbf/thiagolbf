@@ -6,6 +6,6 @@ Engenheiro Mecatrônico que gosta muito de tecnologia e que atua neste mercado h
 
 <div>
 <a href="https://github.com/thiagolbf">
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=thiagolbf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=thiagolbf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> <br/>
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagolbf&layout=compact&langs_count=7&theme=dracula"/>
 </div>
