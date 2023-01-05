@@ -1,7 +1,8 @@
 <h2 align="center"> Olá, sou o Thiago Barcelos </h2>
 
 <h4>Desenvolver Web Front-End formado em Engenharia Mecatrônica</h4>
-<p>Você pode me encontrar: <a href="https://www.linkedin.com/in/thiagolbf" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"></a> </p>
+<h6 align="center">Você pode me encontrar: 
+<a  align="center"href="https://www.linkedin.com/in/thiagolbf" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"></a> </h6>
 
 
 Engenheiro Mecatrônico que gosta muito de tecnologia e que atua neste mercado há mais de 15 anos, porém voltado para a área industrial, onde já desenvolvi diversos projetos realizando a programação do CLP (Controlador lógico programável) e desenvolvendo os projetos elétricos. Neste momento estou em transição de carreira para área de desenvolvimento WEB onde escolhi o curso Front End da Kenzie Academy para me auxiliar nessa trajetória. 
