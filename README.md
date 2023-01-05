@@ -1,6 +1,6 @@
 <h2> Olá, sou o Thiago Barcelos </h2>
 
-<h3 >Desenvolver Web Front-End formado em Engenharia Mecatrônica</h4>
+<h4 >Desenvolver Web Front-End formado em Engenharia Mecatrônica</h4>
 <h5 ">Você pode me encontrar:</h5>
 <div><a  align="center"href="https://www.linkedin.com/in/thiagolbf" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"></a> </div>
 
