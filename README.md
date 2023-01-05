@@ -1,6 +1,6 @@
 <h2> Olá, sou o Thiago Barcelos </h2>
 
-<h4 >Desenvolver Web Front-End formado em Engenharia Mecatrônica</h4>
+<h3>Desenvolver Web Front-End formado em Engenharia Mecatrônica</h4>
 
 <h5>Encontre-me por aqui:</h5>
 
