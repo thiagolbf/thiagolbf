@@ -1,6 +1,6 @@
 <h2> Olá, sou o Thiago Barcelos </h2>
 
-<h3>Desenvolver Web Full Stack formado em Engenharia Mecatrônica</h4>
+<h3>Desenvolver Web Full Stack e Engenheiro Mecatrônico</h4>
 
 <h4>Encontre-me por aqui:</h4>
 
