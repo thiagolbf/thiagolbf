@@ -1,8 +1,12 @@
 <h3>Olá, sou o Thiago Barcelos - Desenvolvedor Web </h3>
 
-<h3>Desenvolvedor Web</h3>
 
-<h4>Encontre-me por aqui:</h4>
+
+<p>Sou engenheiro mecatrônico com mais de 15 anos de experiência, onde tive a oportunidade de trabalhar em diversas áreas como: manufatura, projetos/desenvolvimento, programação (máquinas – CLP/IHM) e atualmente atuo como Gerente de projetos de automação.
+
+Estou em transição de carreira para área de desenvolvimento Web e desde 2021 tenho me dedicado a estudar e me aprimorar nesse campo. Em 2022 finalizei meu curso na Kenzie Academy.
+
+Estou aberto a novas oportunidades projetos relacionado ao desenvolvimento web.</p>
 
 <div><a  align="center"href="https://www.linkedin.com/in/thiagolbf" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"></a> </div>
 <br/>
