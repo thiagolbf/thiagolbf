@@ -1,4 +1,4 @@
-<h2>Olá, sou o Thiago Barcelos</h2>
+<h3>Olá, sou o Thiago Barcelos - Desenvolvedor Web </h3>
 
 <h3>Desenvolvedor Web</h3>
 
