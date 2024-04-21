@@ -1,7 +1,7 @@
 <h3>Olá, sou o Thiago Barcelos - Desenvolvedor Web </h3>
 
 
-<p>Formado em engenheira mecatrônica com mais de 15 anos de experiência, onde tive a oportunidade de trabalhar em diversas áreas como: manufatura, projetos/desenvolvimento, programação (máquinas – CLP/IHM) e atualmente atuo como Gerente de projetos de automação.
+<p>Formado em engenheira mecatrônica com mais de 15 anos de experiência, onde tive a oportunidade de trabalhar em diversas áreas como: manufatura, projetos/desenvolvimento, programação (máquinas – CLP/IHM) e atualmente ocupo a posição de Gerente de projetos de automação.
 
 Estou em transição de carreira para área de desenvolvimento Web e desde 2021 tenho me dedicado a estudar e me aprimorar nesse campo. Em 2022 finalizei meu curso na Kenzie Academy.
 
