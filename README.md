@@ -1,6 +1,7 @@
 <h3>Olá, sou o Thiago Barcelos - Desenvolvedor Web </h3>
 
-<p> Atualmente trablhando com React/Node.Js/Python.</br>
+<p> Atualmente trabalhando com React/Node.Js/Python.</br>
+
 Em constante aprendizado de desevolvimento web através da plataforma .NET.
   
 Engenheiro mecatrônico com mais de 15 anos de experiência em automação de máquinas, onde tive a oportunidade de trabalhar em diversas áreas como: manufatura, projetos/desenvolvimento, programação (máquinas – CLP/IHM) e gerente de projetos.
