@@ -2,7 +2,7 @@
 
 <p> Atualmente trabalhando com React / Node.Js / Python.</br>
 
-Em constante aprendizado de desevolvimento web através da plataforma .NET.
+Em constante aprendizado referente ao desevolvimento web através da plataforma .NET.
   
 Engenheiro mecatrônico com mais de 15 anos de experiência em automação de máquinas, onde tive a oportunidade de trabalhar em diversas áreas como: manufatura, projetos/desenvolvimento, programação (máquinas – CLP/IHM) e gerente de projetos.
 
