@@ -1,6 +1,6 @@
 <h3>Olá, sou o Thiago Barcelos - Desenvolvedor Web </h3>
 
-<p> Atualmente trabalhando com ReactJs / Node.Js / Python.</br>
+<p> Atualmente trabalhando com React / Node.Js / Python.</br>
 
 Em constante aprendizado referente ao desevolvimento web através da plataforma .NET.
   
