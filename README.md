@@ -6,7 +6,7 @@ Em constante aprendizado referente ao desevolvimento web através da plataforma 
   
 Engenheiro mecatrônico com mais de 15 anos de experiência em automação de máquinas, onde tive a oportunidade de trabalhar em diversas áreas como: manufatura, projetos/desenvolvimento, programação (máquinas – CLP/IHM) e gerenciamento de projetos.
 
-Estou aberto a novas oportunidades/projetos relacionado ao desenvolvimento web.</p>
+Estou aberto a novas oportunidades/projetos relacionados ao desenvolvimento web.</p>
 
 <div><a  align="center"href="https://www.linkedin.com/in/thiagolbf" target="_blank"><img height="25em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"></a> </div>
 <br/>
