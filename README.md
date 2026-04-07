@@ -1,12 +1,12 @@
-<h3>Olá, sou o Thiago Barcelos - Desenvolvedor Web </h3>
+<h3>Olá, sou o Thiago Barcelos - Desenvolvedor de Software </h3>
 
 <p> Atualmente trabalhando com React / Node.Js / Python.</br>
 
-Em constante aprendizado referente ao desevolvimento web através da plataforma .NET.
+Em constante aprendizado em arquitetura de software, integração de sistemas e desenvolvimento de soluções com IA, com foco em .NET e Python.
   
-Engenheiro mecatrônico com mais de 15 anos de experiência em automação de máquinas, onde tive a oportunidade de trabalhar em diversas áreas como: manufatura, projetos/desenvolvimento, programação (máquinas – CLP/IHM) e gerenciamento de projetos.
+Com mais de 15 anos de experiência em engenharia de automação industrial, o que me proporciona uma visão prática na resolução de problemas e construção de soluções robustas
 
-Estou aberto a novas oportunidades/projetos relacionados ao desenvolvimento web.</p>
+Aberto a novas oportunidades em desenvolvimento de software, com preferência em Backend (Python e .NET). </p>
 
 <div><a  align="center"href="https://www.linkedin.com/in/thiagolbf" target="_blank"><img height="25em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"></a> </div>
 <br/>
