@@ -23,7 +23,7 @@ Aberto a novas oportunidades em desenvolvimento de software, com preferência em
 <img height="25em" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"> 
 <img height="25em" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
 
-
 <p>IA & Automação</p>
-<img height="25em" src="https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge&logoColor=white"> <img height="25em" src="https://img.shields.io/badge/LangGraph-1B1B1B?style=for-the-badge&logoColor=white">
-<img height="25em" src="https://img.shields.io/badge/N8N-EA4B71?style=for-the-badge&logo=n8n&logoColor=white">
+<div>
+<img height="25em" src="https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge&logoColor=white"/> <img height="25em" src="https://img.shields.io/badge/LangGraph-1B1B1B?style=for-the-badge&logoColor=white"/> <img height="25em" src="https://img.shields.io/badge/N8N-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
+</div>
