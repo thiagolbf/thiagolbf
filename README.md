@@ -6,7 +6,7 @@ Em constante aprendizado em arquitetura de software, integração de sistemas e 
   
 Com mais de 15 anos de experiência em engenharia de automação industrial, o que me proporciona uma visão prática na resolução de problemas e construção de soluções robustas
 
-Aberto a novas oportunidades em desenvolvimento de software, com preferência em Backend (Python e .NET). </p>
+Aberto a novas oportunidades em desenvolvimento de software, com preferência em Backend (.NET e Python). </p>
 
 <div><a  align="center"href="https://www.linkedin.com/in/thiagolbf" target="_blank"><img height="25em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"></a> </div>
 <br/>
